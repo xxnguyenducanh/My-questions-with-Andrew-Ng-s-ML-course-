@@ -1,3 +1,4 @@
+Some follow-up question to dive into the course, It helps me grasp more ML intuition.
 edit at: https://docs.google.com/document/d/1JUEDn6mED4gadv39omlPZs4O4w1NCSRPRT3wUPNmLfg/edit
 
 Question 1. **If the data set has a different scale, and you do not use feature scaling or mean normalization, the contour is skewed leading to slow performance of gradient descent. Why Feature Scaling for skewed contour?**
@@ -35,6 +36,7 @@ Note: SVM cost function
 ![alt text](https://github.com/xxnguyenducanh/My-questions-with-Andrew-Ng-s-ML-course-/blob/main/SVM%20cost%20function.png)
 
 **Note:** The reason why we need ML engineer is we do not have a critically strong computing system to cover all situation, people need to fix and optimize the ML system (data processing, algorithms) to run it on a specific task with a limited computing system and dataset.**
+
 Question 4. **What is the Gaussian Kernel?**
 
 ![](RackMultipart20210126-4-klhv1x_html_58d2b887c6b1fdfb.png)
