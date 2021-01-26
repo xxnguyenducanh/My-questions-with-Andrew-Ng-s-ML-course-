@@ -29,13 +29,13 @@ As we can see, for the equation of kernel function showed above: sigma plays a r
 ![alt text](https://github.com/xxnguyenducanh/My-questions-with-Andrew-Ng-s-ML-course-/blob/main/probability%20density%20function.png)
 If **Sigma Squared parameter** is larger, a larger range of _ **X = x - x&#39;** _ is reduced, because of division by this parameter, then _**k(x,x&#39;)**_ makes a range of data points which are near _ **x point** _ equal to 1 or 0. The decision boundary is a general one considering nearly all of the data points.
 
-**Note:** The reason why we need ML engineer is we do not have a critically strong computing system to cover all situation, people need to fix and optimize the ML system (data processing, algorithms) to run it on a specific task with a limited computing system and dataset.**
 
 Note: SVM cost function
 
 ![alt text](https://github.com/xxnguyenducanh/My-questions-with-Andrew-Ng-s-ML-course-/blob/main/SVM%20cost%20function.png)
 
-Question 5. **What is the Gaussian Kernel?**
+**Note:** The reason why we need ML engineer is we do not have a critically strong computing system to cover all situation, people need to fix and optimize the ML system (data processing, algorithms) to run it on a specific task with a limited computing system and dataset.**
+Question 4. **What is the Gaussian Kernel?**
 
 ![](RackMultipart20210126-4-klhv1x_html_58d2b887c6b1fdfb.png)
 
