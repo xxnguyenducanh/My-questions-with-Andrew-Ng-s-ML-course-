@@ -1,4 +1,4 @@
-Some follow-up question to dive into the course, It helps me grasp more ML intuition.
+Some follow-up question to dive into the course, they help me grasp more ML intuition.
 edit at: https://docs.google.com/document/d/1JUEDn6mED4gadv39omlPZs4O4w1NCSRPRT3wUPNmLfg/edit
 
 Question 1. **If the data set has a different scale, and you do not use feature scaling or mean normalization, the contour is skewed leading to slow performance of gradient descent. Why Feature Scaling for skewed contour?**
