@@ -36,15 +36,13 @@ Note: SVM cost function
 ![alt text](https://github.com/xxnguyenducanh/My-questions-with-Andrew-Ng-s-ML-course-/blob/main/SVM%20cost%20function.png)
 
 **Note:** The reason why we need ML engineer is we do not have a critically strong computing system to cover all situation, people need to fix and optimize the ML system (data processing, algorithms) to run it on a specific task with a limited computing system and dataset.**
-
-Question 4. **What is the Gaussian Kernel?**
-
-![](RackMultipart20210126-4-klhv1x_html_58d2b887c6b1fdfb.png)
-
-![](RackMultipart20210126-4-klhv1x_html_58d2b887c6b1fdfb.png)
-
 [**https://www.whydomath.org/node/wavlets/imagebasics.html#:~:text=A%20pixel%20**](https://www.whydomath.org/node/wavlets/imagebasics.html#:~:text=A%20pixel%20)
 
-**WATCH &#39;&#39;PCA and SVD (Andrew Ng&#39;&#39; AGAIN !!**
+![](RackMultipart20210126-4-klhv1x_html_58d2b887c6b1fdfb.png)
+
+![](RackMultipart20210126-4-klhv1x_html_58d2b887c6b1fdfb.png)
+
+
+
 
 ![](RackMultipart20210126-4-klhv1x_html_bd35e24d8405f559.png)
